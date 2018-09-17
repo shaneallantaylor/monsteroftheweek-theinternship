@@ -1,7 +1,7 @@
 NPCs
 ===
 
-## Kyle
+## Kyle Range
 
 * Principal of local elementary school
 * Was possessed by monster from Ninja Turtles
