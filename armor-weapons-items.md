@@ -34,7 +34,7 @@ Weapons:
 * Brass Knuckles (2dmg, melee, quiet, small)
 
 Armor: 
-* None
+* Light Suit (When you need to roll to do something fast, take the better of two rolls)
 
 Items:
 * None
