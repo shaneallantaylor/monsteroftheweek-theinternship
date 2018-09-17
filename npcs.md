@@ -50,6 +50,7 @@ NPCs
 ## Queen of the Merfolk
 
 * We don't know her name
+* Significantly mutated from pollutants in the water
 
 ## Fucking Todd the Merman
 
