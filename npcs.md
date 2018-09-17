@@ -59,5 +59,5 @@ NPCs
 ## Smithnee the Merfolk Champion
 
 * He's huge. He's 500 lbs.
-* He's got a glowing gauntlet on.
+* He was the protector of the merfolk for 300 years
 * He's Birch's brother
