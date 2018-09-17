@@ -24,20 +24,20 @@ Armor:
 * 2 Armor hidden under clothes
 
 Items:
-* (blank)
+* None
 
 ---
 
 ## Neil
 
 Weapons:
-* (blank)
+* Brass Knuckles (2dmg, melee, quiet, small)
 
 Armor: 
-* (blank)
+* None
 
 Items:
-* (blank)
+* None
 
 ---
 
@@ -66,3 +66,14 @@ Items:
 * (blank)
 
 ---
+
+## Kalen
+
+Weapons:
+* Ritual Knife (1dmg, hand)
+
+Armor:
+* None
+
+Items:
+* Old Watch (Focus)
