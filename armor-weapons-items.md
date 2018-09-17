@@ -57,13 +57,16 @@ Items:
 ## Lyra
 
 Weapons:
-* (blank)
+* Enchanted Dagger (2-harm hand magic)
+* .38 Revolver (2-harm close reload loud)
+* Brass Knuckles (1-harm hand stealthy)
+* Magic Crossbow (3-harm silent 30ft. infinite ammo)
 
 Armor: 
-* (blank)
+* None
 
 Items:
-* (blank)
+* None
 
 ---
 

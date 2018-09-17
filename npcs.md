@@ -46,3 +46,11 @@ NPCs
 
 * Runs Moon Shadow Bar
 * Secretly works for Nextel as paranormal investigator
+
+## Queen of the Merfolk
+
+* We don't know her name
+
+## Fucking Todd the Merman
+
+* Really wants to tell the story RE: The ceremony for The Games
