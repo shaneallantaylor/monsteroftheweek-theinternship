@@ -19,6 +19,9 @@ Items:
 
 Weapons:
 * Enchanted Chainsaw (3dmg, melee, messy, loud, "When activating, roll 2d6. If >= 7, +1 fire/magic dmg)
+* Enchanted Big Knife (1-harm hand, +1 magic burning damage)
+* Hunting Rifle (2-harm far loud)
+* The Gauntlet of the Merfolk Champion (Shoots water, propels with water, does massive damage)
 
 Armor: 
 * 2 Armor hidden under clothes
