@@ -18,10 +18,10 @@ Items:
 ## Rick
 
 Weapons:
-* (blank)
+* Enchanted Chainsaw (3dmg, melee, messy, loud, "When activating, roll 2d6. If >= 7, +1 fire/magic dmg)
 
 Armor: 
-* (blank)
+* 2 Armor hidden under clothes
 
 Items:
 * (blank)
