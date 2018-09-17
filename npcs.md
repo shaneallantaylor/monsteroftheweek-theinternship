@@ -55,3 +55,9 @@ NPCs
 ## Fucking Todd the Merman
 
 * Really wants to tell the story RE: The ceremony for The Games
+
+## Smithnee the Merfolk Champion
+
+* He's huge. He's 500 lbs.
+* He's got a glowing gauntlet on.
+* He's Birch's brother
