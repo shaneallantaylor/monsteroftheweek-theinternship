@@ -1,5 +1,10 @@
 Story
 ===
+## Killer Bird in the Woods
+
+## Big Bug in the Mines
+
+## Wegman's
 
 ## K. Rang (Kyle the Principal)
 
@@ -13,3 +18,6 @@ Things that happened:
 * Amelia and Lyra speak to Mur-boy (name??) and Amelia learns she has fish-scale armor (Mur-Armor!)
 * Amelia and Lyra speak to Chloe (Canoe place) and Lyra gets a crossbow (30 ft range, 3 dmg) with unlimited arrows 
 
+## The Games
+
+Date played:  9/16/2018
